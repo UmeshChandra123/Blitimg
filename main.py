@@ -1,5 +1,6 @@
 from tkinter import *
 root = Tk()
-lbl = label(self.root, text = "Hello World")
+lbl = label(root, text = "Hello World", font = "30")
+lbl.pack()
 root.mainloop()
-#error is coming plz check
+
