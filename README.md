@@ -1,2 +1,2 @@
-# Blitimg
-Adding image to tkinter
+# Textblit
+Adding text to tkinter
